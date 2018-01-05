@@ -452,3 +452,13 @@ a {
     margin-right: auto;
 
 }
+
+/*------------------ video -----------------*/
+
+.hs-responsive-embed-youtube {
+
+	position: relative;
+	margin: 50px 20px;
+	min-height: 20vw;
+	min-width: 30vw;
+}
